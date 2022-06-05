@@ -1,4 +1,1 @@
-*
-!*.pdf
-!*.ipynb
-!.gitignore
+*.txt
